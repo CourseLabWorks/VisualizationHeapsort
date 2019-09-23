@@ -1,0 +1,10 @@
+E:\git\LabWorks\VisualizationHeapsort\VisualizationHeapsort\bin\Debug\VisualizationHeapsort.exe.config
+E:\git\LabWorks\VisualizationHeapsort\VisualizationHeapsort\bin\Debug\VisualizationHeapsort.exe
+E:\git\LabWorks\VisualizationHeapsort\VisualizationHeapsort\bin\Debug\VisualizationHeapsort.pdb
+E:\git\LabWorks\VisualizationHeapsort\VisualizationHeapsort\obj\Debug\VisualizationHeapsort.csprojAssemblyReference.cache
+E:\git\LabWorks\VisualizationHeapsort\VisualizationHeapsort\obj\Debug\VisualizationHeapsort.Properties.Resources.resources
+E:\git\LabWorks\VisualizationHeapsort\VisualizationHeapsort\obj\Debug\VisualizationHeapsort.csproj.GenerateResource.cache
+E:\git\LabWorks\VisualizationHeapsort\VisualizationHeapsort\obj\Debug\VisualizationHeapsort.csproj.CoreCompileInputs.cache
+E:\git\LabWorks\VisualizationHeapsort\VisualizationHeapsort\obj\Debug\VisualizationHeapsort.exe
+E:\git\LabWorks\VisualizationHeapsort\VisualizationHeapsort\obj\Debug\VisualizationHeapsort.pdb
+E:\git\LabWorks\VisualizationHeapsort\VisualizationHeapsort\obj\Debug\VisualizationHeapsort.Form1.resources
